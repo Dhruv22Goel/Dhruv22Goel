@@ -76,6 +76,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dhruv22goel/Dhruv22goel/output/snake.svg" alt="Snake animation" />
 
 ###
