@@ -76,6 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dhruv22goel/Dhruv22goel/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{Dhruv22goel}}/{{Dhruv22goel}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
 
 ###
