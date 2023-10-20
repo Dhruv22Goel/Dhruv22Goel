@@ -2,30 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello, World!
-
-```javascript
-const aboutMe = {
-  name: 'Your Name',
-  title: 'Full-Stack Developer and Coding Enthusiast',
-  loveForCoding: true,
-  currentProject: 'Turning coffee into code ☕💻',
-  favoriteQuote: 'Debugging is like being the detective in a crime movie where you're also the murderer. 🕵️‍♂️🔍',
-};
-
-function getToKnowMe() {
-  console.log(`Hi there! I'm ${aboutMe.name}, and I'm here to make the web a more interesting place, one line of code at a time. When I'm not chasing pesky bugs or pushing pixels, you can find me wrestling with my keyboard or brewing up some new code concoctions. 
-
-I believe that laughter is the best debugging tool, and my commits come with a dash of humor. If you ever need help, have a coding conundrum, or just want to chat about the latest tech trends, feel free to reach out.
-
-Remember, coding is not just a skill; it's a lifestyle. So let's embrace the quirks and quirks of this digital world together! 😄
-
-Happy coding, and may your merge conflicts be few and your pull requests be swift! 🚀
-`);
-}
-
-getToKnowMe();
-</p>
+<p align="left">My name is Dhruv Goel and I'm a Full Stack Web Developer from Delhi, India.</p>
 
 ###
 
@@ -99,6 +76,6 @@ getToKnowMe();
 
 ###
 
-![Snake animation](https://github.com/{{Dhruv22goel}}/{{Dhruv22goel}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+
 
 ###
