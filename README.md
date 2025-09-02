@@ -1,81 +1,48 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋, I'm Dhruv Goel</h1>
+<h3 align="center">A Passionate Full Stack Web Developer from Delhi, India</h3>
 
-###
+---
 
-<p align="left">My name is Dhruv Goel and I'm a Full Stack Web Developer from Delhi, India.</p>
+### 🌟 About Me
+- ✨ Creating bugs since **2020**  
+- 📚 Currently learning **.NET & Cloud Technologies**  
+- 🎯 **Goal:** Land a well-paid developer role 🚀  
+- 🎲 **Fun fact:** I dance when I’m alone 💃  
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,bootstrap,html,css,jquery,mongodb,mysql,c,cpp,cs,dotnet,npm,vscode,git,github" />
+</p>
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning .NET<br>🎯 Goals: Securing a well paied job.<br>🎲 Fun fact: I like to dance when I am alone.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv22goel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruv22goel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv22goel&show_icons=true&theme=dracula&count_private=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruv22goel&layout=compact&langs_count=6&theme=dracula" height="160" alt="languages graph"  />
 </div>
 
-###
+---
 
-<div align="left">
+### 🌍 Connect with Me
+<p align="center">
   <a href="https://www.linkedin.com/in/dhruv-goel-164486213/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"/>
   </a>
   <a href="https://codesandbox.io/dashboard/recent?workspace=1377d043-b1e0-4ce9-bba9-1d90cb96ec0a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
+    <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codesandbox logo"/>
   </a>
-</div>
+</p>
 
-###
+---
 
+### 🎯 Featured Projects
+- 🚀 **[AI Summarizer Chrome Extension](#)** – Summarizes articles using AI  
+- ✈️ **[Flight Deal Finder](#)** – Find cheap flights & get notified  
+- 📊 **[Talent Scouting System](#)** – Built with .NET & PostgreSQL  
 
+---
 
-###
+<p align="center">⚡ "Code. Debug. Learn. Repeat." ⚡</p>
